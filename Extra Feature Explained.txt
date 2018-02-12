@@ -1,0 +1,9 @@
+========================================================
+Extra Feature - Information Visualisation Assignment 2
+========================================================
+
+Our extra feature implements a world map at the bottom right of the main visualisation.
+
+You click a region to highlight those countries within it on the main visualisation.
+
+If you click the same region again the visual returns to normal.
